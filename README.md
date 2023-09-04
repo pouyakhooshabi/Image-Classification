@@ -1,4 +1,4 @@
-# Comp6721-Project
+# Image Classification Problem
 
 Welcome to the GitHub page for the final project of the Applied AI course! In this project, we focused on image classification using three Kaggle datasets. We experimented with three popular CNN architectures: ResNet18, ShuffleNet V2, and MobileNet V2, for each dataset.
 
